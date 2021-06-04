@@ -1,6 +1,6 @@
 # Data_Table
 
-in this I fetch data from Api and use datatable.net
+In this I fetch data from Api and use datatable.net
 
 ## Usage
 
