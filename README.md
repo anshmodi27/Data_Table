@@ -1,5 +1,11 @@
 # DataTabel
 
+## Link for it
+```bash
+https://anshmodi27.github.io/Data_Table/
+```
+
+
 ## Usage
 
 ```Html
